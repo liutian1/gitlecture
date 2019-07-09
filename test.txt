@@ -6,3 +6,4 @@ add line
 sixth line
 seventh line
 nith line
+welcom to study git lecture
